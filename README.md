@@ -1,4 +1,4 @@
-![Logo](https://server.powerupstudio.eu/cdn?file=ecore-logo.png)<br>
+![Logo](./logo.svg)<br>
 [![License](https://img.shields.io/github/license/Power-Up-Studio/eCore.svg)](https://github.com/Power-Up-Studio/eCore/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/Power-Up-Studio/eCore.svg)](https://github.com/Power-Up-Studio/eCore/issues)
 ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/e-core)
