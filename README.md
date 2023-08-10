@@ -12,4 +12,6 @@ Anyone can contribute to the developement of eCore and request new features or r
 
 The first version of eCore is currently in developement and this repository will remain empty and in preparation, the package will be released here, on npm and yarn when finished.  
 
+You can start learning eCore right now by going into this repository's [wiki page](../../wiki)  
+
 **Note that eCore will only work in the browser and not in Node.js, a version for Node.js might be released based on the support and success of this project.**
